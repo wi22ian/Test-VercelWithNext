@@ -1,0 +1,25 @@
+{
+  "name": "TestVercelWithNext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wi22ian/TestVercelWithNext.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wi22ian/TestVercelWithNext/issues"
+  },
+  "homepage": "https://github.com/wi22ian/TestVercelWithNext#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
